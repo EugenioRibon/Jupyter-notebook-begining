@@ -1,1 +1,1 @@
-# This are my first codes in jupyter notebook
+# These are my first codes in jupyter notebook
